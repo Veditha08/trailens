@@ -1,0 +1,5 @@
+venv/
+__pycache__/
+*.pyc
+.env
+# Keep sample photos light, but ignore large raw dumps if needed
